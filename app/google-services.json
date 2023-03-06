@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38554749933",
+    "project_id": "learn-authentication-62eab",
+    "storage_bucket": "learn-authentication-62eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38554749933:android:dfd3bdde5e5332f6fa75e4",
+        "android_client_info": {
+          "package_name": "com.example.aws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38554749933-bjjo27oikj8cjhrucgdpqif98e4mrhb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKojrKvWqTWBH-e0dqSqqqbJKcZFbiXKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38554749933-bjjo27oikj8cjhrucgdpqif98e4mrhb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
